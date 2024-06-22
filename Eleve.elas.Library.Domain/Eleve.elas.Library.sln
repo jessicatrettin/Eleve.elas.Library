@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eleve.elas.Library.Domain", "Eleve.elas.Library.Domain\Eleve.elas.Library.Domain.csproj", "{A81191E4-4848-4C36-BFA3-C0257CB95130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81191E4-4848-4C36-BFA3-C0257CB95130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81191E4-4848-4C36-BFA3-C0257CB95130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81191E4-4848-4C36-BFA3-C0257CB95130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81191E4-4848-4C36-BFA3-C0257CB95130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {915391E1-B0EE-40B0-A3CF-E582AB0F2171}
+	EndGlobalSection
+EndGlobal
